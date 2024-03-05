@@ -29,6 +29,10 @@ img{
     margin-top: 20px;
 }
 
+.cont img {
+    margin:25px ;
+}
+
 footer{
     background-color: black;
     text-align: center;
