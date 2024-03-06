@@ -1,19 +1,19 @@
 {
-    "background_color": "#191919",
-    "dir": "ltr",
-    "display": "standalone",
-    "name": "projecto pwa",
-    "orientation": "any",
-    "scope": "/",
-    "short_name": "projecto pwa",
-    "start_url": "/",
-    "theme_color": "#484848",
-    "icons": [
-      {
-        "src": "img/icon.png",
-        "type": "image/png",
-        "sizes": "50x50"
-      }
-    ],
-    "lang": "pt"
-  }
+  "background_color": "#dcdcdc",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sobre mim",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sobre mim",
+  "start_url": "/",
+  "theme_color": "#909090",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    }
+  ],
+  "lang": "pt"
+}
